@@ -13,7 +13,9 @@ DFS - Busca começar no nó raiz e adiciona na pilha nó raiz e explora os ramos
 Comando para busca DFS
 
 python pacman.py -l tinyMaze -p SearchAgent
+
 python pacman.py -l mediumMaze -p SearchAgent
+
 python pacman.py -l bigMaze -z .5 -p SearchAgent
 
 Link Video: https://drive.google.com/open?id=18NsaXxoK5BtmkDGCHIHG__qfDu0pELOk
@@ -24,6 +26,7 @@ BFS - Funciona de Forma similar ao DFS, porém inves de Stack(Pilhas) utilizamos
 Comando para busca BFS
 
 python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+
 python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
 
 
@@ -34,7 +37,9 @@ USC - A implementação desse codigo tambem é similar a da DFS, entretanto agor
 Comando para busca UCS
 
 python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+
 python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+
 python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
 
 
@@ -45,7 +50,9 @@ A* SEARCH - Essa busca necessita da implementação de uma Heuristica que já es
 Comando para busca A* search
 
 python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+
 python pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+
 python pacman.py -l trickySearch -p AStarFoodSearchAgent
 
 Link Video: https://drive.google.com/open?id=1hrPT-OHvZBiwq3jiNa2y_r-yJFwKVcJ_
