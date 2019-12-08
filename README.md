@@ -51,9 +51,7 @@ Video: https://drive.google.com/file/d/1hrPT-OHvZBiwq3jiNa2y_r-yJFwKVcJ_/view?us
 
 PERGUNTAS
 
-(Pergunta 1) A ordem de exploração foi de acordo com o esperado? 
-
-O Pacman realmente passa por todos os estados explorados no seu caminho para o objetivo?
+(Pergunta 1) A ordem de exploração foi de acordo com o esperado? O Pacman realmente passa por todos os estados explorados no seu caminho para o objetivo?
 
 Quando rodei o programa o pacman passou por todos os estados explorados 
 
