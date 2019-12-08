@@ -1,6 +1,8 @@
 # trabalho-IA
 
-Aluno: Venicius 
+Aluno: Venicius Nunes
+
+Professor: Aerles 
 
 Matricula: 
 
