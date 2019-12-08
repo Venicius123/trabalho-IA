@@ -4,7 +4,7 @@ Aluno: Venicius Nunes
 
 Professor: Aerles 
 
-Matricula: 
+Matricula: 31221576
 
 Objetivo  do projeto e fazer com que o PACMAN encontre a comida que está em algum lugar do labirito, para isso são aplicadas tipos de buscas conforme aprendemos durante o curso de IA .
 
