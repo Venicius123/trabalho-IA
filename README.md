@@ -47,5 +47,4 @@ python pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhatta
 
 python pacman.py -l trickySearch -p AStarFoodSearchAgent
 
-Video: https://drive.google.com/open?id=1hrPT-OHvZBiwq3jiNa2y_r-yJFwKVcJ_
-
+Video: https://drive.google.com/file/d/1hrPT-OHvZBiwq3jiNa2y_r-yJFwKVcJ_/view?usp=sharing
