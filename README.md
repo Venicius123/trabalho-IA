@@ -18,7 +18,7 @@ python pacman.py -l mediumMaze -p SearchAgent
 
 python pacman.py -l bigMaze -z .5 -p SearchAgent
 
-Link Video: https://drive.google.com/open?id=18NsaXxoK5BtmkDGCHIHG__qfDu0pELOk
+Video: https://drive.google.com/open?id=18NsaXxoK5BtmkDGCHIHG__qfDu0pELOk
 
 
 BFS - Funciona de Forma similar ao DFS, porém inves de Stack(Pilhas) utilizamos as Queue(Filas) o que melhora um pouco as buscas. 
@@ -30,7 +30,7 @@ python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
 python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
 
 
-Link Video: https://drive.google.com/open?id=1cKzM1bUKLuYjgHeAXKPCU1d8E1u0I87C
+Video: https://drive.google.com/open?id=1cKzM1bUKLuYjgHeAXKPCU1d8E1u0I87C
 
 USC - A implementação desse codigo tambem é similar a da DFS, entretanto agora utilizamos PriorityQueue(Filas de Prioridade) ao inves de Filas.
 
@@ -43,7 +43,7 @@ python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
 python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
 
 
-Link Video: https://drive.google.com/open?id=1r34xu7E8CU-rsMRHmB92iDcXz91fMhlv
+Video: https://drive.google.com/open?id=1r34xu7E8CU-rsMRHmB92iDcXz91fMhlv
 
 A* SEARCH - Essa busca necessita da implementação de uma Heuristica que já está implementada no codigo, sendo assim foi necessrio apenas implementar a logica no função ASearch .
 
@@ -55,5 +55,5 @@ python pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhatta
 
 python pacman.py -l trickySearch -p AStarFoodSearchAgent
 
-Link Video: https://drive.google.com/open?id=1hrPT-OHvZBiwq3jiNa2y_r-yJFwKVcJ_
+Video: https://drive.google.com/open?id=1hrPT-OHvZBiwq3jiNa2y_r-yJFwKVcJ_
 
