@@ -59,6 +59,6 @@ Quando rodei o programa o pacman passou por todos os estados explorados.
 
 (Pergunta 3) A busca BFS encontra a solução ótima? Senão, verifique a sua implementação. Se o seu código foi escrito de maneira correta, ele deve funcionar também para o quebra-cabeças de 8 peças (seção 3.2 do livro-texto) sem modificações.
 
-Ambos os algoritomos funcionaram bem, o DPS encontra uma solução boa e o BFS encontra uma solução melhor ainda. O jogo 8 pluzes rodou tambem encontrando a sequencia.
+Ambos os algoritmos funcionaram bem, o DPS encontra uma solução boa e o BFS encontra uma solução melhor ainda. O jogo 8 pluzes rodou tambem encontrando a sequência.
 
 (Pergunta 4) O que acontece em openMaze para as várias estratégias de busca?
